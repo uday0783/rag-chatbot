@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Hugging Face model cache
+~/.cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# FAISS index (large binary files)
+faiss_index/
+
+# Environment variables
+.env
